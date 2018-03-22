@@ -93,7 +93,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06305cd6ee78c2146ae62b982ec99df1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD:Assets/Prefabs/Player.prefab
   mSpeed: 255
+=======
+  mSpeed: 20
+>>>>>>> 1c12fc44507df9a6b9020deec571bd00c30a513d:Assets/Prefabs/Saito/Player.prefab
 --- !u!136 &136987931964358550
 CapsuleCollider:
   m_ObjectHideFlags: 1
