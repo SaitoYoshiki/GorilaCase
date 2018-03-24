@@ -1,0 +1,20 @@
+diff a/Assets/Prefabs/Saito/Player.cs b/Assets/Prefabs/Saito/Player.cs	(rejected hunks)
+@@ -0,0 +1,18 @@
++﻿using System.Collections;
++using System.Collections.Generic;
++using UnityEngine;
++
++public class Player : MonoBehaviour {
++
++	public float mSpeed;
++
++	// Use this for initialization
++	void Start () {
++		
++	}
++	
++	// Update is called once per frame
++	void Update () {
++		
++	}
++}
