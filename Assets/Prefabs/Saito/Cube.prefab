@@ -105,4 +105,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13477cfd669fb4e4d9eaad258cac0d95, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< .merge_file_a04524
   mSpeed: 1200
+=======
+  mSpeed: 500
+>>>>>>> .merge_file_a00340
