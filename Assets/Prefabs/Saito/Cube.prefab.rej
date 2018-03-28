@@ -1,0 +1,7 @@
+diff a/Assets/Prefabs/Saito/Cube.prefab b/Assets/Prefabs/Saito/Cube.prefab	(rejected hunks)
+@@ -109,4 +109,5 @@
+ <<<<<<< .merge_file_a04524
+   mSpeed: 1200
+ =======
++  mSpeed: 500
+ >>>>>>> .merge_file_a00340
