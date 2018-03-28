@@ -103,6 +103,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13477cfd669fb4e4d9eaad258cac0d95, type: 3}
-  m_Name:
-  m_EditorClassIdentifier:
-  mSpeed: 100
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mSpeed: 1000
